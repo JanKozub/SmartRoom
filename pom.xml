@@ -97,13 +97,6 @@
                     <classpathScope>test</classpathScope>
                     <mainClass>org.jk.smartRoom.Application</mainClass>
                 </configuration>
-                <executions>
-                    <execution>
-                        <id>run</id>
-                        <phase>integration-test</phase>
-                        <goals><goal>java</goal></goals>
-                    </execution>
-                </executions>
             </plugin>
         </plugins>
     </build>
