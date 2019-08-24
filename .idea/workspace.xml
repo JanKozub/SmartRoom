@@ -2,166 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="167c98a0-c23b-44d2-9a28-530a7daded4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jk/smartRoom/view/pc/MainViewHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jk/smartRoom/view/pc/MainViewRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_atmosphere_atmosphere_runtime_2_4_30_vaadin1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_atmosphere_atmosphere_runtime_2_4_30_slf4jvaadin1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_slf4j_vaadin_slf4j_jdk14_1_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_flow_client_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_flow_client_2_0_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_flow_data_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_flow_data_2_0_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_flow_html_components_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_flow_html_components_2_0_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_flow_html_components_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_flow_html_components_testbench_2_0_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_flow_push_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_flow_push_2_0_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_flow_server_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_flow_server_2_0_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_accordion_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_accordion_flow_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_accordion_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_accordion_testbench_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_app_layout_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_app_layout_flow_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_app_layout_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_app_layout_testbench_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_board_testbench_3_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_board_testbench_3_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_button_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_button_flow_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_button_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_button_testbench_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_charts_testbench_7_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_charts_testbench_7_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_checkbox_flow_2_0_0_rc3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_checkbox_flow_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_checkbox_testbench_2_0_0_rc3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_checkbox_testbench_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_combo_box_flow_3_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_combo_box_flow_3_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_combo_box_testbench_3_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_combo_box_testbench_3_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_confirm_dialog_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_confirm_dialog_testbench_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_context_menu_flow_3_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_context_menu_flow_3_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_context_menu_testbench_3_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_context_menu_testbench_3_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_cookie_consent_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_cookie_consent_flow_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_cookie_consent_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_cookie_consent_testbench_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_core_14_0_0_beta2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_core_14_0_0_rc9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_crud_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_crud_testbench_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_custom_field_flow_3_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_custom_field_flow_3_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_custom_field_testbench_3_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_custom_field_testbench_3_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_date_picker_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_date_picker_flow_2_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_date_picker_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_date_picker_testbench_2_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_details_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_details_flow_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_details_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_details_testbench_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_dialog_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_dialog_flow_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_dialog_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_dialog_testbench_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_form_layout_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_form_layout_flow_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_form_layout_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_form_layout_testbench_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_grid_flow_4_0_0_rc3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_grid_flow_4_0_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_grid_pro_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_grid_pro_testbench_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_grid_testbench_4_0_0_rc3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_grid_testbench_4_0_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_icons_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_icons_flow_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_icons_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_icons_testbench_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_iron_list_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_iron_list_flow_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_iron_list_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_iron_list_testbench_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_list_box_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_list_box_flow_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_list_box_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_list_box_testbench_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_login_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_login_flow_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_login_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_login_testbench_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_lumo_theme_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_lumo_theme_2_0_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_material_theme_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_material_theme_2_0_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_menu_bar_flow_1_0_0_rc3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_menu_bar_flow_1_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_menu_bar_testbench_1_0_0_rc3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_menu_bar_testbench_1_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_notification_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_notification_flow_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_notification_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_notification_testbench_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_ordered_layout_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_ordered_layout_flow_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_ordered_layout_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_ordered_layout_testbench_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_progress_bar_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_progress_bar_flow_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_progress_bar_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_progress_bar_testbench_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_radio_button_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_radio_button_flow_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_radio_button_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_radio_button_testbench_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_rich_text_editor_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_rich_text_editor_testbench_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_select_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_select_flow_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_select_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_select_testbench_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_split_layout_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_split_layout_flow_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_split_layout_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_split_layout_testbench_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_spring_12_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_spring_12_0_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_spring_boot_starter_14_0_0_beta2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_spring_boot_starter_14_0_0_rc9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_tabs_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_tabs_flow_2_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_tabs_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_tabs_testbench_2_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_testbench_14_0_0_beta2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_testbench_14_0_0_rc9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_testbench_core_6_1_0_rc3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_testbench_core_6_2_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_text_field_flow_2_0_0_rc3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_text_field_flow_2_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_text_field_testbench_2_0_0_rc3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_text_field_testbench_2_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_time_picker_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_time_picker_flow_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_time_picker_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_time_picker_testbench_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_upload_flow_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_upload_flow_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_upload_testbench_2_0_0_rc2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_upload_testbench_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_accordion_1_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_accordion_1_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_app_layout_2_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_app_layout_2_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_button_2_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_button_2_2_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_checkbox_2_2_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_checkbox_2_2_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_combo_box_5_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_combo_box_5_0_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_context_menu_4_3_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_context_menu_4_3_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_custom_field_1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_custom_field_1_0_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_date_picker_4_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_date_picker_4_0_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_development_mode_detector_2_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_development_mode_detector_2_0_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_form_layout_2_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_form_layout_2_1_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_grid_5_4_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_grid_5_4_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_item_2_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_item_2_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_list_box_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_list_box_1_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_material_styles_1_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_material_styles_1_2_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_menu_bar_1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_menu_bar_1_0_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_overlay_3_2_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_overlay_3_2_13.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_progress_bar_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_progress_bar_1_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_radio_button_1_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_radio_button_1_2_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_select_2_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_select_2_1_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_split_layout_4_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_split_layout_4_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_tabs_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_tabs_3_0_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_text_field_2_4_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_text_field_2_4_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_time_picker_2_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_time_picker_2_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_upload_4_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_upload_4_2_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_usage_statistics_2_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bowergithub_vaadin_vaadin_usage_statistics_2_0_4.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smartroom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/smartroom.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/smartRoom/services/device/DeviceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/smartRoom/services/device/DeviceManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/smartRoom/view/mobile/UserTypeView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/smartRoom/view/mobile/UserTypeView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/smartRoom/view/pc/MainView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/smartRoom/view/pc/UserTypeView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/smartRoom/view/pc/UserTypeView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/TODO" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TODO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TODO" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TODO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/MainMenuPC$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/MainMenuPC$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/MainMenuPC$menuButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/MainMenuPC$menuButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/MainMenuPC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/MainMenuPC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/MenuButtonMoblie$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/MenuButtonMoblie$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/MenuButtonMoblie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/MenuButtonMoblie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/MyNotification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/MyNotification.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/ReturnButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/ReturnButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/SettingsButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/SettingsButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/ViewType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/component/ViewType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/Message.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/connection/CommService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/connection/CommService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/connection/MessageListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/connection/MessageListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/connection/MqttService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/connection/MqttService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/device/DeviceManager$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/device/DeviceManager$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/device/DeviceManager$Subscription.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/device/DeviceManager$Subscription.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/device/DeviceManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/device/DeviceManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/device/DeviceState.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/device/DeviceState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/device/DeviceStateListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/device/DeviceStateListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/device/DeviceType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/services/device/DeviceType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/Lobby.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/Lobby.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/RouteNotFoundError.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/RouteNotFoundError.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/MainViewHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/MainViewHouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/MainViewRoom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/MainViewRoom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/UserTypeView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/UserTypeView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/tabs/BlindsView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/tabs/BlindsView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/tabs/DoorView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/tabs/DoorView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/tabs/LightView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/tabs/LightView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/tabs/SettingsView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/tabs/SettingsView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/tabs/settingsTabs/AboutSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/tabs/settingsTabs/AboutSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/tabs/settingsTabs/ConnectionStatusView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/mobile/tabs/settingsTabs/ConnectionStatusView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/MainView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/UserTypeView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/UserTypeView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/tabs/BlindsView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/tabs/BlindsView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/tabs/DoorView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/tabs/DoorView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/tabs/LightView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/tabs/LightView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/tabs/MonitoringView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/tabs/MonitoringView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/tabs/SettingsView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/tabs/SettingsView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/tabs/settingsTabs/AboutSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/tabs/settingsTabs/AboutSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/tabs/settingsTabs/ConnectionStatusView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jk/smartRoom/view/pc/tabs/settingsTabs/ConnectionStatusView.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -257,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566328504620</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new app config">
+      <created>1566663119197</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566663119197</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,7 +132,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="WIP" />
-    <option name="LAST_COMMIT_MESSAGE" value="WIP" />
+    <MESSAGE value="new app config" />
+    <option name="LAST_COMMIT_MESSAGE" value="new app config" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/esked$Application.ic" NAME="Application Coverage Results" MODIFIED="1565692060080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
