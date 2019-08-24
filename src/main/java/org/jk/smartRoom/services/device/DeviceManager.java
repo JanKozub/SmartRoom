@@ -7,6 +7,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 
 import java.time.Duration;
+import java.time.LocalDateTime;
 import java.util.*;
 import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.stream.Collectors;
@@ -94,6 +95,13 @@ public class DeviceManager {
                 .collect(Collectors.joining("\n", "\nDevice statuses:\n", ""));
 
         log.info(message);
+
+        LocalDateTime time = LocalDateTime.now();
+        if (time.getHour() == 5 && time.getMinute() == 0 && time.getSecond() > 0 && time.getSecond() <= 5) {
+            if (!deviceStates.get(DeviceType.CLOCK).isEnabled()) {
+                sendMessage(DeviceType.CLOCK, "TOGGLE");
+            }
+        }
     }
 
     private static class Subscription {
