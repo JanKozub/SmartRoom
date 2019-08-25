@@ -14,16 +14,22 @@ public class MainMenuPC extends HorizontalLayout {
     public MainMenuPC(ViewType viewType) {
 
         menuButton lights = new menuButton("Światło", new Icon(VaadinIcon.LIGHTBULB), a -> UI.getCurrent().navigate("pc/light"));
+        lights.setWidth("16%");
 
         menuButton blinds = new menuButton("Rolety", new Icon(VaadinIcon.MODAL), b -> UI.getCurrent().navigate("pc/blinds"));
+        blinds.setWidth("16%");
 
         menuButton door = new menuButton("Drzwi", new Icon(VaadinIcon.LOCK), c -> UI.getCurrent().navigate("pc/door"));
+        door.setWidth("16%");
 
         menuButton music = new menuButton("Muzyka", new Icon(VaadinIcon.MUSIC), c -> UI.getCurrent().navigate("pc/dupa"));
+        music.setWidth("16%");
 
         menuButton monitoring = new menuButton("Monitoring", new Icon(VaadinIcon.CAMERA), d -> UI.getCurrent().navigate("pc/monitoring"));
+        monitoring.setWidth("16%");
 
         menuButton settings = new menuButton("Ustawienia", new Icon(VaadinIcon.WRENCH), e -> UI.getCurrent().navigate("pc/settings"));
+        settings.setWidth("16%");
 
         switch (viewType) {
             case LIGHTS:
@@ -45,7 +51,7 @@ public class MainMenuPC extends HorizontalLayout {
                 settings.getStyle().set("color", "grey");
                 break;
         }
-
+        setWidth("100%");
         setHeight("8%");
         add(lights, blinds, door, music, monitoring, settings);
     }
